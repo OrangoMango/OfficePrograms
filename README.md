@@ -8,5 +8,5 @@ You can use:
   <li>spaceship_right-left.py or .exe
   <li>Timekpr_calculator.py or .exe
   <li>widgets.py or .exe
-  <li>Death_Akinator
+  <li>Death_akinator
 </ul>
