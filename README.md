@@ -1,5 +1,5 @@
 # OfficePrograms
-4 Office tkinter programs
+3 Office tkinter programs
 
 ### What can you use
 
@@ -8,7 +8,6 @@ You can use:
   <li>spaceship_right-left.py or .exe
   <li>Timekpr_calculator.py or .exe
   <li>widgets.py or .exe
-  <li>Death_akinator.py or .exe
 </ul>
 
 # Instruction 
@@ -19,5 +18,3 @@ You can use:
 ## <ul>Time Calculator</ul>
 
 ## <ul>Widgets</ul>
-
-## <ul>Death Akinator</ul>
