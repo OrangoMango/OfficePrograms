@@ -14,7 +14,3 @@ You can use:
 
 ## <ul>Spaceship</ul>
   <ul>To move the square you have to click with the cursor on the right or on the left side</ul>
-
-## <ul>Time Calculator</ul>
-
-## <ul>Widgets</ul>
